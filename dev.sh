@@ -11,3 +11,6 @@ sudo apt-get install -y python3
 echo Installing Python3-pip
 sudo apt-get install -y python3-pip
 
+echo Installing virtualenv 
+sudo apt-get install -y virtualenv
+
